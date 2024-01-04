@@ -1,0 +1,317 @@
+.basic-project {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .basic-project .div {
+    background-color: #ffffff;
+    width: 1440px;
+    height: 900px;
+    position: relative;
+  }
+  
+  .basic-project .container {
+    position: absolute;
+    width: 1371px;
+    height: 677px;
+    top: 118px;
+    left: 38px;
+  }
+  
+  .basic-project .overlap {
+    position: relative;
+    width: 1367px;
+    height: 677px;
+    background-color: #f4f6f5;
+    border-radius: 46.89px;
+  }
+  
+  .basic-project .overlap-group {
+    position: absolute;
+    width: 406px;
+    height: 377px;
+    top: 60px;
+    left: 67px;
+  }
+  
+  .basic-project .rectangle {
+    width: 394px;
+    height: 93px;
+    top: 186px;
+    left: 9px;
+    background-color: #ebd96b;
+    position: absolute;
+    transform: rotate(-2deg);
+  }
+  
+  .basic-project .rectangle-2 {
+    width: 369px;
+    height: 89px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    position: absolute;
+    transform: rotate(-2deg);
+  }
+  
+  .basic-project .LET-s-EXPLORE-UNIQUE {
+    position: absolute;
+    width: 377px;
+    top: 1px;
+    left: 28px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 900;
+    color: #000000;
+    font-size: 76.3px;
+    letter-spacing: 0;
+    line-height: 95.4px;
+  }
+  
+  .basic-project .text-wrapper {
+    position: absolute;
+    width: 482px;
+    top: 469px;
+    left: 95px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #191818;
+    font-size: 25.4px;
+    letter-spacing: -1.27px;
+    line-height: normal;
+  }
+  
+  .basic-project .overlap-2 {
+    position: absolute;
+    width: 707px;
+    height: 623px;
+    top: 54px;
+    left: 596px;
+  }
+  
+  .basic-project .incendiary {
+    position: absolute;
+    width: 692px;
+    height: 623px;
+    top: 0;
+    left: 15px;
+  }
+  
+  .basic-project .star {
+    top: 29px;
+    left: 537px;
+    position: absolute;
+    width: 44px;
+    height: 40px;
+  }
+  
+  .basic-project .img {
+    top: 552px;
+    left: 34px;
+    position: absolute;
+    width: 44px;
+    height: 40px;
+  }
+  
+  .basic-project .star-2 {
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 44px;
+    height: 40px;
+  }
+  
+  .basic-project .star-3 {
+    top: 505px;
+    left: 660px;
+    position: absolute;
+    width: 44px;
+    height: 40px;
+  }
+  
+  .basic-project .shop-now {
+    display: inline-flex;
+    align-items: center;
+    gap: 27.02px;
+    position: absolute;
+    top: 540px;
+    left: 99px;
+  }
+  
+  .basic-project .vector {
+    position: relative;
+    width: 151.01px;
+    height: 25.4px;
+  }
+  
+  .basic-project .group {
+    position: relative;
+    width: 177.64px;
+    height: 65.17px;
+    margin-right: -2px;
+  }
+  
+  .basic-project .div-wrapper {
+    position: relative;
+    width: 176px;
+    height: 65px;
+    background-color: #000000;
+    border-radius: 7.95px;
+  }
+  
+  .basic-project .text-wrapper-2 {
+    position: absolute;
+    top: 15px;
+    left: 33px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 23.8px;
+    letter-spacing: -1.19px;
+    line-height: normal;
+  }
+  
+  .basic-project .navbar-container {
+    display: flex;
+    width: 1366px;
+    height: 49px;
+    align-items: flex-end;
+    gap: 510.24px;
+    position: absolute;
+    top: 24px;
+    left: 38px;
+  }
+  
+  .basic-project .logo {
+    display: inline-flex;
+    align-items: center;
+    gap: 10.33px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .basic-project .vector-2 {
+    position: relative;
+    width: 24.85px;
+    height: 23.05px;
+  }
+  
+  .basic-project .text-wrapper-3 {
+    position: relative;
+    width: fit-content;
+    margin-top: -0.79px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 900;
+    color: #000000;
+    font-size: 31.8px;
+    letter-spacing: 0.95px;
+    line-height: normal;
+  }
+  
+  .basic-project .navbar {
+    display: inline-flex;
+    align-items: center;
+    gap: 42.92px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .basic-project .nav-list {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 51.66px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .basic-project .text-wrapper-4 {
+    position: relative;
+    width: 107.29px;
+    height: 28.61px;
+    margin-top: -0.79px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #242323;
+    font-size: 17.5px;
+    letter-spacing: 0.17px;
+    line-height: normal;
+  }
+  
+  .basic-project .text-wrapper-5 {
+    position: relative;
+    width: 76.3px;
+    height: 26.23px;
+    margin-top: -0.79px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #242323;
+    font-size: 17.5px;
+    letter-spacing: 0.17px;
+    line-height: normal;
+  }
+  
+  .basic-project .text-wrapper-6 {
+    position: relative;
+    width: 97.76px;
+    height: 26.23px;
+    margin-top: -0.79px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #242323;
+    font-size: 17.5px;
+    letter-spacing: 0.17px;
+    line-height: normal;
+  }
+  
+  .basic-project .text-wrapper-7 {
+    position: relative;
+    width: 81.86px;
+    height: 25.43px;
+    margin-top: -0.79px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #242323;
+    font-size: 17.5px;
+    letter-spacing: 0.17px;
+    line-height: normal;
+  }
+  
+  .basic-project .sign-up {
+    position: relative;
+    width: 108.5px;
+    height: 49.28px;
+    margin-right: -2px;
+  }
+  
+  .basic-project .overlap-group-2 {
+    position: relative;
+    width: 106px;
+    height: 49px;
+    background-color: #000000;
+    border-radius: 5.56px;
+  }
+  
+  .basic-project .text-wrapper-8 {
+    position: absolute;
+    width: 72px;
+    top: 10px;
+    left: 17px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #fefefe;
+    font-size: 19.1px;
+    letter-spacing: -0.57px;
+    line-height: normal;
+  }
+  
+  .basic-project .navbar-dark {
+    position: absolute;
+    width: 1440px;
+    height: 58px;
+    top: 842px;
+    left: 0;
+    object-fit: cover;
+  }
+  
